@@ -1,0 +1,1 @@
+# Greenplum_cheat_sheet
