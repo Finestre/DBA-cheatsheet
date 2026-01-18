@@ -1,1 +1,1 @@
-# Greenplum_cheat_sheet
+# DBA_cheatsheet
